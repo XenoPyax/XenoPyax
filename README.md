@@ -3,4 +3,4 @@
 - 🔭 I’m currently working on [Behind Bars](https://github.com/Behind-Bars) GameCore
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: Discord XenoPyax#5647
-- ⚡ Fun fact: I tend to redo my projects every once and a while.
+- ⚡ Fun fact: I tend to redo my projects every once in a while.
